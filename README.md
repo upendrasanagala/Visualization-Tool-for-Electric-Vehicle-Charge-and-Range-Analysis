@@ -45,9 +45,7 @@ effectively.
 
 
 #### Dataset Link:
-https://drive.google.com/drive/
-folders/1Rkzdks6Us1Uq2SRB
-4nxMAb83jN5bpHll
+https://drive.google.com/drive/folders/1Rkzdks6Us1Uq2SRB4nxMAb83jN5bpHll
 #### GitHub & Project Demo Link:
 https://github.com/upendrasanagala/Visualization-Tool-for-Electric-Vehicle-Charge-and-RangeAnalysis
 #### Tableau public link:
