@@ -33,13 +33,12 @@ visualization tool in Tableau that:
 • This tool helps users, analysts, and manufacturers to analyze electric vehicle performance
 effectively.
 ### 2.3 Solution Architecture
-
- Dataset (EV Charge & Range Data)
-↓
-Data Cleaning (if needed, in Excel)
-↓
-Data Import into Tableau
-↓
-Dashboard Design (Bar Charts, Line Graphs, Filters)
-↓
-Final Visualization Tool for User Analysis
+• Dataset (EV Charge & Range Data)
+          ↓
+• Data Cleaning (if needed, in Excel)
+          ↓
+• Data Import into Tableau
+          ↓
+• Dashboard Design (Bar Charts, Line Graphs, Filters)
+          ↓
+• Final Visualization Tool for User Analysis
