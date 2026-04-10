@@ -42,3 +42,13 @@ effectively.
 • Dashboard Design (Bar Charts, Line Graphs, Filters)
           ↓
 • Final Visualization Tool for User Analysis
+
+
+#### Dataset Link:
+https://drive.google.com/drive/
+folders/1Rkzdks6Us1Uq2SRB
+4nxMAb83jN5bpHll
+#### GitHub & Project Demo Link:
+https://github.com/upendrasanagala/Visualization-Tool-for-Electric-Vehicle-Charge-and-RangeAnalysis
+#### Tableau public link:
+https://public.tableau.com/views/EVchargestations/Chargestations?:language=enUS&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
